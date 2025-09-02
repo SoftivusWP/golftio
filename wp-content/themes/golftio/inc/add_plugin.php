@@ -68,9 +68,9 @@ function my_theme_register_required_plugins()
 		[
 			'name'         => esc_html__('Golftio Core', 'golftio'),
 			'slug'         => 'golftio-core',
-			'source'       => esc_url('https://softivuslab.com/wp/golftio/source/golftio-core.zip'),
+			'source'       => esc_url('https://pixelaxis.net/golftio/source/golftio-core.zip'),
 			'required'     => true,
-			'external_url' => esc_url('https://softivuslab.com/wp/golftio/source/golftio-core.zip'),
+			'external_url' => esc_url('https://pixelaxis.net/golftio/source/golftio-core.zip'),
 		],
 		[
 			'name'     =>  esc_html__('Kirki Customizer Framework', 'golftio'),
